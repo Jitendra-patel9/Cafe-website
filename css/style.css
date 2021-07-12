@@ -294,14 +294,31 @@ padding: 2px 8px;
   }
   
   
-    body{
-    font-size: 50px;
+  body{
+    font-size: 30px;
   }
   .add-p {
     width: 81%;
   }
     .carousel-inner > .carousel-item > img {
     height: 677px;
+}
+.icons {
+    padding: 2% 4%;
+    font-size: 90px;
+  }
+  .footer-btn button{
+        font-size: 29px;
+  }
+  .cafe-img img {
+    width: 87%;
+  }
+  .address-content img {
+    width: 65%;
+}
+.add-form button{
+  font-size: 21px;
+width: 300px;
 }
   
 }
