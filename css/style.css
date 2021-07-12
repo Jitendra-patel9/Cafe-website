@@ -292,4 +292,16 @@ padding: 2px 8px;
     width: 100%;
     border-radius: 0;
   }
+  
+  
+    body{
+    font-size: 23px;
+  }
+  .add-p {
+    width: 81%;
+  }
+    .carousel-inner > .carousel-item > img {
+    height: 677px;
+}
+  
 }
