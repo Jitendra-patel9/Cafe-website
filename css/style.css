@@ -77,6 +77,9 @@ margin: auto;
   .description h2 {
     margin: 6%;
 }
+    .description p{
+      text-align: justify;
+    }
 .left-bar{
   border-left: 6px solid #ccc;
   background-color: #f1f1f1;
@@ -305,7 +308,7 @@ padding: 2px 8px;
 }
 .icons {
     padding: 2% 4%;
-    font-size: 90px;
+    font-size: 50px;
   }
   .footer-btn button{
         font-size: 29px;
@@ -320,5 +323,7 @@ padding: 2px 8px;
   font-size: 21px;
 width: 300px;
 }
-  
+     .description p{
+      text-align: justify;
+    } 
 }
